@@ -1,1 +1,1 @@
-# aws-ocp-disconnected-lab
+ocp-aws-disconnected-lab
